@@ -14,6 +14,6 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# run node.js     
-login>servser> node app.js  
+# run node.js     进入到目录 login>servser> 
+node app.js  
 
