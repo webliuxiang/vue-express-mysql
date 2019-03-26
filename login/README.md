@@ -14,6 +14,6 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# run node.js     login>servser>app.js  
-pm2 start app 
+# run node.js     
+login>servser> node app.js  
 
