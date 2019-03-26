@@ -44,7 +44,7 @@ export default {
   name: "Sign",
   data() {
     return {
-      msg: "Sign Up",
+      msg: " 注册 ",
       userName: "",
       pwd: "",
       error: false,

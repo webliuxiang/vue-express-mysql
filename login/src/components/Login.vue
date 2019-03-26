@@ -44,7 +44,7 @@ export default {
   name: "Login",
   data() {
     return {
-      msg: " Login Up ",
+      msg: " 登录 ",
       userName: "",
       pwd: "",
       userData: [],
